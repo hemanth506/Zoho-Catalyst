@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2182000000011066",
+      "name": "Practice-works",
+      "domain": {
+        "id": "10038077356",
+        "name": "practice-works-748616613.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "748616613",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
